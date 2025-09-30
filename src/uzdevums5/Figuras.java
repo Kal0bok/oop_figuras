@@ -37,7 +37,6 @@ public class Figuras {
 	*/
 		
 	 int izvele;
-	 int poga;
 	
 	do {
 		izvele = MinkuTante.skaitlaParbaude("Ko vēlies darīt?\n"
