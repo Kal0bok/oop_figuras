@@ -36,7 +36,8 @@ public class Figuras {
 	aplis1.rLaukums()+"\n"+"\s"+aplis1.rLGarums());
 	*/
 		
-	 int izvele, poga;
+	 int izvele;
+	 int poga;
 	
 	do {
 		izvele = MinkuTante.skaitlaParbaude("Ko vēlies darīt?\n"

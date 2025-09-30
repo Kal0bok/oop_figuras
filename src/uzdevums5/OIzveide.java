@@ -103,9 +103,9 @@ public class OIzveide {
 			int m1 = MinkuTante.skaitlaParbaude(
 					"Ivadi pirmās malas garumu", 1, 100);
 			int m2 = MinkuTante.skaitlaParbaude(
-					"Ivadi pirmās malas garumu", 1, 100);
+					"Ivadi otras malas garumu", 1, 100);
 			int m3 = MinkuTante.skaitlaParbaude(
-					"Ivadi pirmās malas garumu", 1, 100);
+					"Ivadi trešas malas garumu", 1, 100);
 			if(m1 == -1 || m2 == -1 || m3 == -1)
 				break;
 				Figuras.trijsturisObjekti.add(
